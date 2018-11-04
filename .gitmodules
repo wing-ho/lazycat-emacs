@@ -127,3 +127,6 @@
 [submodule "swift-mode"]
 	path = site-lisp/extensions/swift-mode
 	url = https://github.com/swift-emacs/swift-mode.git 
+[submodule "vi-navigate"]
+	path = site-lisp/extensions/vi-navigate
+	url = https://github.com/manateelazycat/vi-navigate.git 
